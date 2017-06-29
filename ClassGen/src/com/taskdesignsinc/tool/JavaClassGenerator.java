@@ -90,7 +90,7 @@ public class JavaClassGenerator {
                 }
                 if (!parentPath.endsWith("/"))
                     parentPath += "/";
-                classFile = new File(parentPath + builder.toString(), mClassName + ".class");
+                classFile = new File(parentPath + builder.toString(), mClassName + ".java");
             }
             classFile.getParentFile().mkdirs();
             writer = new PrintWriter(classFile);
