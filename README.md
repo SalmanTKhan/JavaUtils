@@ -32,7 +32,7 @@ new JavaClassGenerator("MyClass")
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUITING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/SalmanTKhan/JavaUtils/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 ## Authors
@@ -43,8 +43,8 @@ See also the list of [contributors](https://github.com/SalmanTKhan/JavaUtils/con
 
 ## License
 
-This project is licensed under the Apache 2.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache 2.0 - see the [LICENSE.md](LICENSE) file for details
 
 ## Acknowledgments
 
-* My Parents and My Family for allowing me to just pursue what I want to do in life.
+* My Parents and my Family for allowing me to just pursue what I want to do in life.
