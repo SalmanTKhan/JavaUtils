@@ -130,7 +130,7 @@ public class JavaClassGenerator {
         return this;
     }
 
-    public JavaClassGenerator createField(String name, Object object, ObjectType type) {
+    public JavaClassGenerator createField(String name, ObjectType type, Object object) {
         createField(true, name, type, object, true);
         return this;
     }
