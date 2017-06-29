@@ -78,7 +78,7 @@ public class JavaClassGenerator {
         PrintWriter writer;
         try {
             if (TextUtils.isEmpty(mPackageName))
-                classFile = new File(parentPath, mClassName + ".class");
+                classFile = new File(parentPath, mClassName + ".java");
             else {
                 String[] packageNames = mPackageName.split("\\.");
                 StringBuilder builder = new StringBuilder();
